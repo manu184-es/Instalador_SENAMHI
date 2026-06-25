@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/manu184-es/Instalador_SENAMHI/Analisis_SENAMHI.application" />
+    <deploymentProvider codebase="https://manu184-es.github.io/Instalador_SENAMHI/Analisis_SENAMHI.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
